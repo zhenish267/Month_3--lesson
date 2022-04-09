@@ -1,0 +1,17 @@
+#container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#form {
+    margin-top: 5%;
+}
+
+#form input {
+    text-align: center;
+}
+
+#form button {
+    margin-top: 3%;
+}
